@@ -15,6 +15,9 @@ upstream:
   notes:
     type: github_release
     repo: SergiX44/XBackBone
+  sponsor:
+  - name: XBackBone (GitHub Sponsors)
+    url: https://github.com/sponsors/SergiX44
 
 release:
   branch: main
