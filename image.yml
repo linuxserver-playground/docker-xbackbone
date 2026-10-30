@@ -10,6 +10,8 @@ upstream:
   version:
     type: github_release
     repo: SergiX44/XBackBone
+    require_assets:
+      - asset: '^release\-v.*\.zip$'
   notes:
     type: github_release
     repo: SergiX44/XBackBone
